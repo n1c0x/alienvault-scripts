@@ -1,4 +1,4 @@
-in# Select all the assets and the groups they are in and stores the result in the /tmp/result file. 
+# Select all the assets and the groups they are in and stores the result in the /tmp/result file. 
 # The format is the following : 
 #
 # Asset1  Group1
